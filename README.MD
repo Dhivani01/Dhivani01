@@ -2,6 +2,9 @@
 🔭 Former QA Intern at  **99Nex (Pvt) Ltd**<br><br>🌱 I’m currently learning **Automation Testing**<br><br>🤝 I’m looking for help with **Quality Assurance, Frontend Development, Project Management**<br><br>👨‍💻 **Check my website at https://thivani.lovable.app**<br><br>💬 Ask me about **Quality Assurance, Web development, project management.**<br><br>
 
 
+![Profile Views](https://komarev.com/ghpvc/?username=Dhivani01&color=blue)
+
+
 # 🌐 Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Thivani) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://linkedin.com/in/https://www.linkedin.com/in/thivani-puvanesvararasa/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:thivani728@gmail.com) 
  
