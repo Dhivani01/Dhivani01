@@ -1,5 +1,5 @@
 # 💫 About Me
-🔭 Former QA Intern at  **99Nex (Pvt) Ltd**<br><br>🌱 I’m currently learning **Automation Testing**<br><br>🤝 I’m looking for help with **Quality Assurance, Frontend Development, Project Management**<br><br>👨‍💻 **Check my website at https://thivani.lovable.app**<br><br>💬 Ask me about **Quality Assurance, Web development, project management.**<br><br>📫 How to reach me **thivani728@gmail.com**<br><br>⚡ Fun fact **I like to work faster, better...**
+🔭 Former QA Intern at  **99Nex (Pvt) Ltd**<br><br>🌱 I’m currently learning **Automation Testing**<br><br>🤝 I’m looking for help with **Quality Assurance, Frontend Development, Project Management**<br><br>👨‍💻 **Check my website at https://thivani.lovable.app**<br><br>💬 Ask me about **Quality Assurance, Web development, project management.**<br><br>
 
 
 # 🌐 Socials
